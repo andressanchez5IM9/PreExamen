@@ -1,7 +1,7 @@
 <%-- 
     Document   : index
-    Created on : 8/10/2018, 08:16:20 AM
-    Author     : Alumno
+    Created on : 8/10/2018, 16:16:20 PM
+    Author     : Sánchez Rosas Andrés
 --%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
